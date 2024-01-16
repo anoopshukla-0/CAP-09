@@ -1,2 +1,2 @@
-# CAP-09
+# CAP_09
 This is for exercising.
